@@ -1,0 +1,247 @@
+JAPANESE FOODS !!
+
+
+Name: Pork Katsudon
+Category:Japanese
+Description:Japanese pork cutlet rice bowl made with Tonkatsu, eggs, and sauteed onions simmered in a sweet and savory sauce.
+Price: 325
+image: product_13.1.jpg
+
+
+Name: Beef Ramen
+Category:Japanese
+Description:  Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.
+Price: 300
+image: product_14.1.jpg
+
+Name: Chicken Teriyaki
+Category:Japanese
+Description: Griddle cooked slices of chicken fillet topped with our original Teriyaki sauce served over steamed Japanese rice.
+Price: 275
+image: product_15.1.jpg
+
+Name: Gyudon
+Category:Japanese
+Description: Thin strips of tender beef, slowly simmered in our signature gyudon sauce served over Japanese rice
+Price: 245
+image: product_16.1.jpg
+
+Name: Prawn Tempura
+Category:Japanese
+Description: Crispy fried shrimp coated in our traditional Japanese style tempura batter served over steamed Japanese rice
+Price: 275
+image: product_17.1.jpg
+
+Name: Beef Yakiniku
+Category:Japanese
+Description: Grilled slices of tender beef glazed with our sweet Yakiniku sauce served over steaming Japanese rice
+Price: 245
+image: product_18.1.jpg
+
+Name: Chicken Karaage
+Category:Japanese
+Description:  Crispy Japanese Style Fried Chicken. Thick cuts of chicken thigh marinated in special marinade, deep-fried until crisp golden brown. Served over steamed Japanese rice
+Price: 275
+image: product_19.1.jpg
+
+Name: Togarashi Pork
+Category:Japanese
+Description: Thin strips of pork belly, slowly simmered in mildly sweet-savory sauce, topped with Togarashi & Sesame Chili oil. Served over steamed Japanese rice
+Price: 245
+image: product_20.1.jpg
+
+Name: Chicken Karaage Bento
+Category:Japanese
+Description: Crispy Japanese Style Fried Chicken served with steamed Japanese rice, Kani Salad, Sweet Potato Tempura and Coffee Jelly
+Price: 380
+image: product_21.1.jpg
+
+Name: Prawn Tempura Bento
+Category:Japanese
+Description: Crispy shrimp tempura served with steamed Japanese rice, Kani Salad, Sweet Potato Tempura and Coffee Jelly
+Price: 380
+image: product_22.1.jpg
+
+Name: Gyoza
+Category:Japanese
+Description: Japanese style dumplings made with tender pork and a combination of fresh vegetables
+Price: 160
+image: product_33.1.jpg
+
+Name: Kani Salad
+Category:Japanese
+Description: Crab stick salad with sweet fresh mango cubes, crisp lettuce and cucumber, fresh Tobiko and Japanese mayonnaise
+Price: 105
+image: product_34.1.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+FILIPINO FOODS !!!
+
+
+
+Name: Sinigang na Bangus
+Category: Filipino
+Description: A tamarind-based soup that is known for its sour and savory taste.
+Price: 380
+image: product_9.01.jpg
+
+Name: Bulalo
+Category: Filipino
+Description: A light colored soup that is made by cooking beef shanks and marrow bones
+Price: 490
+image: product_2.01.jpg
+
+Name: Sinigang na Baboy
+Category: Filipino
+Description: A sour soup with pork ribs, vegetables, and tamarind-flavored broth.
+Price: 345
+image: product_11.1.jpg
+
+Name: Beek Kare-Kare
+Category: Filipino
+Description: A stew complimented with a thick savory peanut sauce.
+Price: 490
+image: product_4.01.jpg
+
+Name: Lechon Kawali
+Category: Filipino
+Description: A  pork dish deep-fried to golden perfection.
+Price: 240
+image: product_5.01.jpg
+
+Name: Roasted Chicken
+Category: Filipino
+Description: A roasting whether in a home kitchen, over a fire, or with a rotisserie (rotary spit).
+Price: 330
+image: product_6.01.jpg
+
+Name: Crispy Pata
+Category: Filipino
+Description: A pork-lover's delight—crunchy pork skin enclosing savory tender meat.
+Price: 730
+image: product_001.jpg
+
+Name: Sizzling Sisig
+Category: Filipino
+Description: A street food of chopped pig parts and chicken livers tossed with a spicy and sour dressing
+Price: 290
+image: product_3.01.jpg
+
+Name: Grilled Bangus
+Category: Filipino
+Description: It is grilled with stuffing made of spices, and then wrapped in aluminum foil to aid in the cooking process.
+Price: 320
+image: product_7.01.jpg
+
+Name: Shrimp Tofu Oriental
+Category: Filipino
+Description: The silky bean curd nuggets are lightly fried until golden, then smothered in a thick prawn and scallop sauce
+Price: 440
+image: product_7.01.jpg
+
+Name: Beef Kaldereta
+Category: Filipino
+Description: Beef stewed in tomato with potato, carrot, olives, bell peppers, and liver spread.
+Price: 380
+image: product_10.1.jpg
+
+Name: Pinakbet
+Category: Filipino
+Description: Mixed fresh vegetables stir fried with a little sweet bagoong
+Price: 220
+image: product_12.1.jpg
+
+
+
+
+
+
+
+
+
+
+
+Italian Food!
+
+Name: Chicken Cacciatore
+Category: Italian
+Description: Roasted chicken, onions, bellpeppers, mushrooms simmered in rich red wine tomato sauce
+Price: 720
+image: product_31.1.png
+
+Name: Minestrone Bouillon
+Category: Italian
+Description: Basil, pesto, maccheroni pasta, grated parmesan cheese
+Price: 280
+image: product_32.1.png
+
+Name: Herb Chicken Milanese
+Category: Italian
+Description: Grilled chicken breast, spinach gorgonzola , cream sauce, tomato balsamic relish
+Price: 795
+image: product_30.1.png
+
+Name: Toasted Ravioli
+Category: Italian
+Description: Filled ravioli, marinara sauce, basil pesto
+Price: 540
+image: product_26.1.png
+
+Name: Salmon Oreganato
+Category: Italian
+Description: Salmon fllet, rosemary potatoes, sautéed vegetables
+Price: 780
+image: product_27.1.png
+
+Name: Mussels Lombardi
+Category: Italian
+Description: Mussels, white wine, olive oil, garlic, butter, herbs, toasted garlic bread
+Price: 445
+image: product_28.1.png
+
+Name: Parmesan Crusted Fish Fillet
+Category: Italian
+Description: White fsh fllet with parmesan cheese breading, mashed potatoes, vegetables, caper cream sauce
+Price: 680
+image: product_29.1.png
+
+Name: Gilled Chicken Au Poive
+Category: Italian
+Description: Grilled pepper-crusted pork chops, rosemary potatoes, carrots, crispy-fried spinach, wild mushroom, marsala wine sauce and steamed rice
+Price: 680
+image: product_31.1.png
+
+Name: Tuna Garganelli
+Category: Italian
+Description:  Romaine, arugula, cherry tomatoes, walnuts, feta, grapes, parmesan, balsamic vinaigrette dressing
+Price: 780
+image: product_27.1.png
+
+Name: Spaghetti Meatballs
+Category: Italian
+Description: A famous huge homemade meatballs, spaghetti, marinara sauce.
+Price: 540
+image: product_25.1.jpg
+
+Name: Truffle Chicken Pasta
+Category: Italian
+Description: Fettuccine pasta, creamy truffe sauce, grilled chicken
+Price: 620
+image: product_23.1.jpg
+
+Name: Chicken Parmigiana
+Category: Italian
+Description: Parmesan crusted chicken, mozzarella, spaghetti marinara
+Price: 580
+image: product_24.1.jpg
+

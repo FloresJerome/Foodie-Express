@@ -1,0 +1,9 @@
+.reg-design {
+    background: linear-gradient(#212245b2, #212245b2),
+    url("../assets/images/bg.jpg");
+}
+
+.reg-form {
+    background: rgba(255, 255, 255, .85);
+    border-radius: 25px;
+}
